@@ -1,4 +1,6 @@
 # Kickstart My Chart
-By Thomas Babjak
+Thomas Babjak
+
 December 05, 2020
+
 (See Attachments)
